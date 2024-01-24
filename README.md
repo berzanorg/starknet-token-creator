@@ -1,6 +1,6 @@
 # Starknet Token Creator Website
 
-This repository contains the source code of the website of [Starknet Token Creator](https://starknettokencreator.pages.dev).
+This repository contains the source code of the website of [Starknet Token Creator](https://starknet-token-creator.pages.dev/).
 
 This project is licensed under [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
