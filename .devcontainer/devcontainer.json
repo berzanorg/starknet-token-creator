@@ -1,0 +1,22 @@
+{
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"esbenp.prettier-vscode",
+				"svelte.svelte-vscode",
+				"bradlc.vscode-tailwindcss",
+				"moalamri.inline-fold"
+			],
+			"settings": {
+				"editor.defaultFormatter": "esbenp.prettier-vscode",
+				"editor.formatOnSave": true,
+				"[svelte]": {
+					"editor.defaultFormatter": "svelte.svelte-vscode"
+				}
+			}
+		}
+	}
+}
